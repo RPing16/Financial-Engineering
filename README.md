@@ -23,7 +23,7 @@
 4. **障礙選擇權**
    - **障礙選擇權 - CRR**
      - 使用二元樹(CRR)對障礙選擇權進行定價(歐美式、上下出局或入局的買賣權)。
-     - [程式碼]([Link_to_your_code](https://github.com/RPing16/Financial-Engineering/blob/main/%E9%81%B8%E6%93%87%E6%AC%8A/Pricing/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A%20-%20CRR.ipynb))
+     - [程式碼](https://github.com/RPing16/Financial-Engineering/blob/main/%E9%81%B8%E6%93%87%E6%AC%8A/Pricing/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A%20-%20CRR.ipynb)
    - **障礙選擇權 - 蒙地卡羅**
      - 使用蒙地卡羅模擬股價路徑進行障礙選擇權定價。
      - [程式碼](https://github.com/RPing16/Financial-Engineering/blob/main/%E9%81%B8%E6%93%87%E6%AC%8A/Pricing/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A/%E9%9A%9C%E7%A4%99%E9%81%B8%E6%93%87%E6%AC%8A%20-%20%E8%92%99%E5%9C%B0%E5%8D%A1%E7%BE%85.ipynb)
